@@ -1,0 +1,6 @@
+{
+  "name": "NutriNut",
+  "description": "An interactive and funny AI-powered recipe scaler that calculates exact ingredient amounts based on your desired macro goal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
